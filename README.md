@@ -1,4 +1,4 @@
-🚗📊 Excited to share my latest project: 𝗔𝗻 𝗘𝘅𝗰𝗲𝗹 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗮𝗻𝗮𝗹𝘆𝘇𝗶𝗻𝗴 Coffee shop Data! 📈
+📊 Excited to share my latest project: 𝗔𝗻 𝗘𝘅𝗰𝗲𝗹 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗮𝗻𝗮𝗹𝘆𝘇𝗶𝗻𝗴 Coffee shop Data! 📈
 
 I've dived deep into the numbers to uncover insights about sales, drinks, locations, timings and contributing factors. 📉📍
 
